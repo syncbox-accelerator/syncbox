@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/syncbox-accelerator/syncbox/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## What is SyncBox ?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+SyncBox is a plug-and-play device that work as a cloud accelerator to provide uninterrupted cloud services. It communicates with client devices via Local Area Network and with the remote server through internet. Client devices can access the files inside the Syncbox using WebDAV protocol without having to install specialized software on their devices.
 
-### Markdown
+[1. Developer Manual](./developer-manual.md) 
+[2. User Manual](./user-manual.md) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Features
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/syncbox-accelerator/syncbox/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Providing uninterrupted cloud services to the clients even when the network connection is unstable.
+- Time shifting file transfer to off-peak hours to reduce the cost of data.
+- Caching frequently used data from the cloud when internet connection is available.
+- Plug-and-play access from both PCs and smartphones without installing additional software.
