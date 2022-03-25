@@ -7,7 +7,9 @@ layout: default
 SyncBox is a plug-and-play device that work as a cloud accelerator to provide uninterrupted cloud services. It communicates with client devices via Local Area Network and with the remote server through internet. Client devices can access the files inside the Syncbox using WebDAV protocol without having to install specialized software on their devices.
 
 [1. Developer Manual](./developer-manual.md) 
+
 [2. User Manual](./user-manual.md) 
+
 
 ## Features
 
