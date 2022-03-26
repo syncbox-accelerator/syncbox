@@ -44,6 +44,11 @@ SeaDrive
 
 ( Use https://nextbox.lk  as the Seafile Server for testing )
 
+- Run following commands to start the service
+
+		> sudo systemctl start syncbox
+		> sudo systemctl enable syncbox
+
 
 # Components
 
