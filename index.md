@@ -17,3 +17,5 @@ SyncBox is a plug-and-play device that work as a cloud accelerator to provide un
 - Time shifting file transfer to off-peak hours to reduce the cost of data.
 - Caching frequently used data from the cloud when internet connection is available.
 - Plug-and-play access from both PCs and smartphones without installing additional software.
+
+[Click here to download SyncBox >>](https://drive.google.com/file/d/1FZEff0wR7QQOUtyyWxfLyvS_VPm2dvWt/view?usp=sharing)
